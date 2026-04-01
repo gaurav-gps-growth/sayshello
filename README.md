@@ -49,4 +49,3 @@ Lovable, ChatGPT, Claude, Perplexity, v0, GitHub, Vercel, n8n, Google Sheets, an
 - LinkedIn: [linkedin.com/in/gs0601](https://www.linkedin.com/in/gs0601/)
 - Portfolio: [gaurav-gps-growth.github.io/ai-apps](https://gaurav-gps-growth.github.io/ai-apps/)
 - Website: [gaurav6189.lovable.app](https://gaurav6189.lovable.app/)
-```
