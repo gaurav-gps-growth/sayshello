@@ -50,4 +50,3 @@ Lovable, ChatGPT, Claude, Perplexity, v0, GitHub, Vercel, n8n, Google Sheets, an
 - Portfolio: [gaurav-gps-growth.github.io/ai-apps](https://gaurav-gps-growth.github.io/ai-apps/)
 - Website: [gaurav6189.lovable.app](https://gaurav6189.lovable.app/)
 ```
-If you want, I can do the next step and give you a **fully polished final README.md version** with emojis, badges, and a more premium GitHub layout.
