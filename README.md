@@ -1,86 +1,58 @@
-# Gaurav Sharma
+# Hi, I'm Gaurav Sharma
 
-Enterprise Transformation & Delivery Leader  
-O2C & Finance Process Modernization | AI-Enabled Operating Models | ARR & Value Realization Ownership
+B2B SaaS sales, customer success, and enterprise transformation professional — building AI-powered apps without a traditional coding background.
 
----
+I work at the intersection of enterprise growth, customer value realization, and AI-assisted product building. Over 12+ years, I’ve worked across Customer Success, Enterprise Sales, implementation, and finance transformation, with experience in O2C modernization, executive stakeholder management, go-live delivery, renewals, and expansion across enterprise SaaS portfolios.
 
-## About Me
+Alongside my SaaS career, I use AI as my co-developer to build practical no-code apps for Indian users across spirituality, education, parenting, nutrition, health, and everyday utility.
 
-I operate at the intersection of enterprise transformation, delivery leadership, and revenue accountability.
+## What I do
 
-Over 12+ years, I have led finance and operational modernization initiatives across global enterprises, combining deep Order-to-Cash (O2C) expertise with structured implementation ownership and measurable value realization.
+- Drive adoption, retention, renewals, and expansion in B2B SaaS
+- Lead enterprise transformation and implementation programs
+- Work across O2C, finance process modernization, and KPI governance
+- Build and launch AI-assisted web apps using no-code and low-code tools
+- Experiment with workflows, prompt engineering, and practical AI use cases
 
-My experience spans the full transformation lifecycle:
+## What I've built
 
-- Solution design & implementation scoping  
-- Go-live execution & cross-functional delivery alignment  
-- KPI governance (adoption, ROI, cost reduction, process efficiency)  
-- Executive stakeholder engagement (CFO, Strategy, Operations)  
-- Renewal & expansion ownership across $750K–$1.5M ARR portfolios  
+I’ve shipped a growing portfolio of AI-assisted apps and experiments, including:
 
----
+- Hindu calendar, prayer, and spirituality tools
+- Kids’ learning and parenting-focused apps
+- Nutrition, fitness, and health utility apps
+- India-focused dashboards and research tools
+- AI and GraphRAG experimentation projects
 
-## Core Capabilities
+## Career highlights
 
-**Enterprise Transformation Leadership**  
-Leading large-scale finance and operational modernization initiatives.
+- 12+ years across SaaS, customer success, enterprise sales, and transformation
+- Managed enterprise portfolios up to $1.5M ARR
+- Delivered 198% of a $1M ARR target
+- Led implementation and go-live programs across enterprise accounts
+- Worked with finance, operations, and executive stakeholders on measurable transformation outcomes
 
-**End-to-End Delivery Ownership**  
-From implementation scoping through go-live and stabilization.
+## Tools I use
 
-**Finance Process Modernization (O2C-Centric)**  
-Cross-process awareness of R2R and P2P interdependencies.
+Lovable, ChatGPT, Claude, Perplexity, v0, GitHub, Vercel, n8n, Google Sheets, and other no-code / AI-assisted tools.
 
-**Executive Account Governance**  
-CFO-level engagement, steering committees, and renewal readiness.
+## Focus areas
 
-**Value Realization & KPI Governance**  
-Structured adoption tracking and measurable outcome alignment.
+- B2B SaaS growth and customer success
+- Enterprise transformation
+- AI-enabled workflows
+- No-code product building
+- Indian culture, education, and utility products
 
-**Revenue & Portfolio Ownership**  
-Managing ARR portfolios, expansion strategy, and long-term account growth.
+## Connect
 
----
+- LinkedIn: [linkedin.com/in/gs0601](https://www.linkedin.com/in/gs0601/)
+- Portfolio: [gaurav-gps-growth.github.io/ai-apps](https://gaurav-gps-growth.github.io/ai-apps/)
+- Website: [gaurav6189.lovable.app](https://gaurav6189.lovable.app/)
+```
 
-## Selected Experience
+## Why this works
 
-### HighRadius  
-Enterprise O2C Transformation & Expansion Leadership
+This version keeps your business credibility, but makes the profile feel broader, more current, and more “builder-first” for GitHub visitors. It also connects your enterprise experience with your AI app-building work, which is the strongest differentiator across the three pages. [gaurav-gps-growth.github](https://gaurav-gps-growth.github.io/ai-apps/)
 
-- Architected O2C transformation programs targeting 10–20% DSO improvement.
-- Delivered 198% of $1M ARR target; President’s Club (2021).
-- Managed enterprise portfolios up to $1.5M ARR.
-- Led cross-functional collaboration ensuring transition from solution design to implementation.
-
-### Sensei Labs  
-Enterprise Implementation & Transformation Lead
-
-- Led post-sales implementation and go-live across 10–15 enterprise accounts (~$800K ARR).
-- Established KPI governance frameworks (adoption %, ROI, cost reduction, efficiency).
-- Facilitated executive steering reviews and transformation governance.
-
-### Capgemini – Management Consultant  
-Advised enterprise clients on O2C, R2R, and P2P finance transformation initiatives.
-
-### Novartis  
-Global O2C process harmonization within enterprise finance environments.
-
----
-
-## Focus Areas
-
-- O2C Digitization & Working Capital Optimization  
-- AI-Enabled Transformation Platforms  
-- Enterprise SaaS Delivery Scaling  
-- KPI Governance & Value Realization  
-- ARR Growth & Executive Stakeholder Alignment  
-
----
-
-## Contact
-
-LinkedIn: [https://www.linkedin.com/in/gs0601/]  
-Email: [gaurav6189@gmail.com]  
-
----
+If you want, I can do the next step and give you a **fully polished final README.md version** with emojis, badges, and a more premium GitHub layout.
